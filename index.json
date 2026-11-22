@@ -3,6 +3,11 @@
   "repo": "zope.container",
   "versions": [
     {
+      "commit": "734095ad8444bca226c5dad28b4389bc20084797",
+      "tag": "7.2",
+      "parsed_at": "2026-11-22T01:49:18.145229+00:00"
+    },
+    {
       "commit": "324e87e9caaee5b92ff78e3e673d915c74b59835",
       "tag": "",
       "parsed_at": "2026-11-02T21:42:29.935942+00:00"
